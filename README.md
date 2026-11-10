@@ -73,12 +73,8 @@ The Learning Resource Management System is a simple Dart console application des
 
 # dart run main.dart
 
-MD_Midterm_[Surname]_[Section]/
+MD_Midterm_[Aquino]_[BSIT3.8]/
 │
 ├── main.dart
 └── README.md
 
-
-This application uses in-memory storage. Records are available only while the program is running. Closing the application clears the stored records.
-
-**Developed using Dart for the Mobile Development Midterm Laboratory Examination.**
